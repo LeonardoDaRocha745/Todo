@@ -1,0 +1,40 @@
+form{
+    width: 85%;
+    margin: 2rem auto 0 auto;
+    text-align: center;
+  
+}
+.conteudo{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    padding: 7%;
+    background-color:#282424 ;
+
+    border-radius: 5px;
+}
+input{
+    color: #fff;
+}
+
+.data-finalizar{
+    text-align: start;
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+   color: #Fff
+}
+.form {
+    width: 80%;
+}
+.buttons{
+    width: 100%;
+}
+button{
+    margin-right: .5rem;
+    
+}
